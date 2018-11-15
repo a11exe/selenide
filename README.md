@@ -3,7 +3,7 @@
 
 
 
-###Пример написания тестов с помощью библиотеки selenide для Gmail.
+### Пример написания тестов с помощью библиотеки selenide для Gmail.
 
 ### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) <a href="https://ru.selenide.org/quick-start.html">Видео с примером написания теста</a>
 
